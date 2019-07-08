@@ -1,5 +1,9 @@
 ### github_emoji
-github emoji record
+
+哪里可以使用github emoji呢？
+1. github的仓库的description
+2. github的仓库的readme文件
+3. github的仓库提交语句
 
 <h2>People</h2>
 <table>
